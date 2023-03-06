@@ -20,3 +20,4 @@ Imagine yourself as the applicant for this role and perform the following task
 * MySQL Workbench CE 🐬
 * Microsoft Excel 📝
 * Microsoft PowerPoint 💻
+* Tableu Public 🗺
