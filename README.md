@@ -19,3 +19,4 @@ Imagine yourself as the applicant for this role and perform the following task
 ## Technology Stack 🔧
 * MySQL Workbench CE 🐬
 * Microsoft Excel 📝
+* Microsoft PowerPoint 💻
