@@ -27,6 +27,5 @@ Imagine yourself as the applicant for this role and perform the following task
 - I Learnt about Common Table Expressions (CTEs) and how they can be used to break down complex queries into smaller, more manageable parts.
 - Gained an understanding of the Group By clause and how it can be used to group data based on one or more columns.
 - Explored the power of Window functions like Rank and Partition By to analyze data across multiple rows.
-- Encountered challenges while working with large datasets, but learned how to optimize queries for better performance.
 
 Overall, the project taught me valuable skills in SQL and data analysis that will be useful in my future work.
