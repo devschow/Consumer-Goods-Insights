@@ -29,3 +29,6 @@ Imagine yourself as the applicant for this role and perform the following task
 - Explored the power of Window functions like Rank and Partition By to analyze data across multiple rows.
 
 Overall, the project taught me valuable skills in SQL and data analysis that will be useful in my future work.
+
+## 🔗 Let's Connect!
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devarshi-choudhury-367aa11b0/)
